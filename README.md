@@ -1,6 +1,6 @@
 # movieReviewClassification
 
-This was a text classification competition - sentiment classification. Every record, in the train.csv file and later the kaggle dataframe, is a movie review extracted from IMDB. My goal was to classify the sentiment of each review into "positive" or "negative" using machine learning models and Python programming language.
+This was a text classification competition - sentiment classification. Every record, in the train.csv file and the kaggle dataframe, is a movie review extracted from IMDB. My goal was to classify the sentiment of each review into "positive" or "negative" using machine learning models and Python programming language.
 
 Please see internal documentation of kaggle.py file for step-by-step explanation of code details.
 
